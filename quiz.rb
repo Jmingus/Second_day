@@ -29,7 +29,7 @@ QUESTIONS = [
 				9
 						],
 			:correct_answer => 2
-	}
+	},
 	{
 			:name => "What is the greatest profession",
 			:answers => [
@@ -39,7 +39,7 @@ QUESTIONS = [
 				"Rocket Man"
 						],
 			:correct_answer => 4
-	}
+	},
 	{
 			:name => "What is the best vehicle",
 			:answers => [
